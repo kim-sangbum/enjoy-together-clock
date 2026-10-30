@@ -4,6 +4,9 @@
 
 🚀 **[게임 플레이하기 (Live Demo)](https://willowy-treacle-84e43b.netlify.app/)**
 
+<img width="799" height="1081" alt="image" src="https://github.com/user-attachments/assets/69c51ac8-78c8-4393-a225-4e27ceedd602" />
+
+
 ---
 
 ## 💡 기획 배경
